@@ -1,2 +1,2 @@
 # Mini-Quiz
-A mini quiz demonstrating the use of Javascript in conjunction with CSS and HTML files to create an interactive quiz about coding terminology.
+A mini quiz demonstrating the use of Javascript in conjunction with CSS and HTML files to create an interactive quiz about coding terminology. Users can take a quiz and select an option that will yield a green or red color to notify the user if they got the question correctly or incorrectly. At the end of the quiz, you will receive your score-how many were correct out of the 4 questions.
