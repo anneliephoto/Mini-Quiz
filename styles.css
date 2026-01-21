@@ -1,0 +1,29 @@
+.hidden {
+  display: none;
+}
+
+#quiz-container,
+#score-container {
+  max-width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: lightgrey;
+}
+
+#options-container button {
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: aquamarine;
+}
+
+#next-button,
+#restart-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: lightcyan;
+}
